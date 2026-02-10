@@ -29,13 +29,14 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+*.ipynb_checkpoints
 
 # Data (if sensitive)
 data/*.pdf
 data/*.docx
 data/*.txt
-!data/sample*.txt
-!data/sample*.pdf
+# Keep example data
+!data/sample.*
 
 # Logs
 *.log
@@ -45,3 +46,4 @@ logs/
 dist/
 build/
 *.egg-info/
+.env
