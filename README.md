@@ -403,8 +403,8 @@ MIT License - see LICENSE file for details
 
 For questions or feedback:
 - Create an issue
-- Email: your-email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: noaman.sae.comp@gmail.com
+- LinkedIn: [My Profile]([https://linkedin.com/in/noaman680](https://www.linkedin.com/in/noaman680/))
 
 ---
 
