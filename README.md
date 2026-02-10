@@ -404,7 +404,7 @@ MIT License - see LICENSE file for details
 For questions or feedback:
 - Create an issue
 - Email: noaman.sae.comp@gmail.com
-- LinkedIn: ([https://linkedin.com/in/noaman680])
+- LinkedIn: https://linkedin.com/in/noaman680/
 
 ---
 
